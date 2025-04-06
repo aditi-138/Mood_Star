@@ -67,6 +67,11 @@ Edit
 
 ![image](https://github.com/user-attachments/assets/0026bc7e-67e4-4d3b-9394-027e64f6ba6c)
 
+### Screenshots
+![image](https://github.com/user-attachments/assets/dfd68bd5-7b62-46ee-97d0-bfdd32818c8c)
+![image](https://github.com/user-attachments/assets/48611fa2-59b3-4b9a-b216-bda6a6b90677)
+
+
 ### 🛠️ Built With
 
 Python
